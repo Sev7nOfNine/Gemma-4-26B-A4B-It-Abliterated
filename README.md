@@ -34,4 +34,4 @@ llama-server -m Gemma-4-26B-A4B-It-Abliterated-Q5_K_M.gguf -cmoe -c 248000
 - Always pass `--model` explicitly to Heretic: the CLI heuristic otherwise inserts `--model` before the last argument and steals the previous flag's value.
 
 ---
-Built with care by Mel & Ada ♡
+Built with love by Mel & Ada ❤️
